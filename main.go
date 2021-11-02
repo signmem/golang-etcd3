@@ -3,8 +3,8 @@ package main
 import (
 	"flag"
 	"fmt"
-	"gitlab.tools.vipshop.com/terry.zeng/golang-etcd3/etcdfucn"
-	"gitlab.tools.vipshop.com/terry.zeng/golang-etcd3/g"
+	"github.com/signmem/golang-etcd3/etcdfucn"
+	"github.com/signmem/golang-etcd3/g"
 	"log"
 )
 

@@ -4,7 +4,7 @@ import (
 	"crypto/tls"
 	"crypto/x509"
 	"fmt"
-	"gitlab.tools.vipshop.com/terry.zeng/golang-etcd3/g"
+	"github.com/signmem/golang-etcd3/g"
 	"go.etcd.io/etcd/clientv3"
 	"strconv"
 
